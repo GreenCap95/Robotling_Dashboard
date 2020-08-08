@@ -1,0 +1,19 @@
+hexbug_relay.py published folgende topics:
+
+robotling_30aea42664a8/power
+robotling_30aea42664a8/power/motor_load
+robotling_30aea42664a8/power
+robotling_30aea42664a8/power/battery_V
+robotling_30aea42664a8/sensor
+robotling_30aea42664a8/sensor/compass
+robotling_30aea42664a8/sensor/compass/pitch_deg
+robotling_30aea42664a8/sensor
+robotling_30aea42664a8/sensor/compass
+robotling_30aea42664a8/sensor/compass/heading_deg
+robotling_30aea42664a8/sensor
+robotling_30aea42664a8/sensor/compass
+robotling_30aea42664a8/sensor/compass/roll_deg
+robotling_30aea42664a8/sensor
+robotling_30aea42664a8/sensor/distance_cm
+robotling_30aea42664a8/state
+robotling_30aea42664a8/timestamp_s
